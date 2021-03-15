@@ -37,7 +37,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Covarrubias, Felipe
 
-- [ ] Czapary, Yousef
+- [X] Czapary, Yousef (@yczap) 👨‍💻 💁‍♂️ 👩🏻‍🚀 🧙🏼‍♂️ 🐻‍❄️🐱‍👤
 
 - [ ] Dai, Anna
 
